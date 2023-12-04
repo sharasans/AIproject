@@ -1,0 +1,7 @@
+train: D:\ultralytics-main\ultralytics\data\images\train
+val: D:\ultralytics-main\ultralytics\data\images\val
+test: D:\ultralytics-main\ultralytics\data\images\test
+# number of classes
+nc: 8
+# class names
+names: ['0', '1','2','3','4','5','6','7']

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/jsai_data" />
+      <excludeFolder url="file://$MODULE_DIR$/jsai_data - 副本 - 副本" />
+      <excludeFolder url="file://$MODULE_DIR$/images" />
+      <excludeFolder url="file://$MODULE_DIR$/jsai_data_enhance" />
+      <excludeFolder url="file://$MODULE_DIR$/labels" />
+      <excludeFolder url="file://$MODULE_DIR$/data_enhance_new" />
+      <excludeFolder url="file://$MODULE_DIR$/data_enhance_202311211212" />
+      <excludeFolder url="file://$MODULE_DIR$/data_enhance_2023_11_22_17_44ok" />
+      <excludeFolder url="file://$MODULE_DIR$/data_enhance_2023_11_22_18_11ok" />
+      <excludeFolder url="file://$MODULE_DIR$/data_enhance_2023_11_23_9_11" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="93fe026f-390e-4c4b-937f-f00ffada1cb5" />
+  </component>
+</module>
